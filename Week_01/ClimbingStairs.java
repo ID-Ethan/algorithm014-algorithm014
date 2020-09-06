@@ -2,7 +2,7 @@
  * @author ID-Ethan
  * @version 1.0.0
  * @ClassName ClimbingStairs.java
- * @Description 三数之和
+ * @Description 爬楼梯（70）
  * @createTime 2020年08月20日 21:10:00
  */
 public class ClimbingStairs {
